@@ -1,0 +1,43 @@
+.error{
+  color: red;
+}
+.container{
+  position: absolute;
+  width: 55%;
+  top: 35%;
+  left: 36%;
+  margin: -100px 0 0 -150px;
+}
+h3{
+  text-align: center;
+}
+.border222 {
+  border-radius: 3px;
+  background-color: #008CBA;
+  color: white;
+  font-size: 20px;
+  padding: 15px;
+}
+.border2 {
+  border: 2px solid #008CBA;
+}
+input[type=text], select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+table{width:100%; border-collapse:collapse; table-layout:auto; vertical-align:top; margin-bottom:15px; border:1px solid #CCCCCC;}
+table th{color:#FFFFFF; background-color:#666666; border:1px solid #CCCCCC; border-collapse:collapse; text-align:center; table-layout:auto; vertical-align:middle;}
+table tbody td{vertical-align:middle; border-collapse:collapse; border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC;}
+table thead th, table tbody td{padding:20px; border-collapse:collapse;}
+table tbody tr:nth-child(odd){color:#666666; background-color:#F7F7F7;}
+table tbody tr:nth-child(even){color:#666666; background-color:#E8E8E8;}
+
+.table_sign_up{width:600px;}
+.table_sign_up th:nth-child(1){width:200px;}
+.table_sign_up th:nth-child(2){width:400px;}
+.table_sign_up input[type="text"] {width:380px;}
